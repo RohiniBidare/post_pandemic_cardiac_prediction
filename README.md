@@ -48,3 +48,12 @@ Output Label for Classification :
 8.Myocarditis
 9.Hypertensive Heart Disease
 10.Rheumatic Heart Disease
+
+Classification Report:
+Train Accuracy: 0.95
+Test Accuracy: 0.6133333333333333
+Streamlit Page :
+![WhatsApp Image 2025-11-24 at 00 53 00_7f9b7fde](https://github.com/user-attachments/assets/78a22a50-f494-4fe7-9215-a0b549799e15)
+
+![WhatsApp Image 2025-11-24 at 00 53 00_9f9b58aa](https://github.com/user-attachments/assets/e32f4390-b523-4452-ad79-875d76178738)
+
