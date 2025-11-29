@@ -1,0 +1,51 @@
+{
+  "0": {
+    "title": "No Cardiac Disease Detected",
+    "summary": "Your predicted disease level is low. Maintain a healthy lifestyle.",
+    "suggestions": [
+      "Continue regular exercise (30 minutes daily).",
+      "Drink plenty of water and follow a balanced diet.",
+      "Get routine checkups every 6-12 months.",
+      "Avoid smoking and limit alcohol use."
+    ]
+  },
+  "1": {
+    "title": "Mild Cardiac Risk Identified",
+    "summary": "Some mild risk factors detected. Lifestyle improvement is recommended.",
+    "suggestions": [
+      "Reduce salt, sugar, and fatty foods.",
+      "Monitor blood pressure once a week.",
+      "Practice stress reduction (yoga/meditation).",
+      "Avoid junk food and increase fruit intake."
+    ]
+  },
+  "2": {
+    "title": "Moderate Risk",
+    "summary": "Moderate cardiac indicators found. Close monitoring is needed.",
+    "suggestions": [
+      "Consult a cardiologist within 1–2 weeks.",
+      "Start supervised exercise programs.",
+      "Monitor symptoms like chest pain or shortness of breath.",
+      "Control diabetes and cholesterol levels."
+    ]
+  },
+  "3": {
+    "title": "High Risk",
+    "summary": "High cardiac risk predicted. Immediate medical attention recommended.",
+    "suggestions": [
+      "Schedule a cardiology appointment immediately.",
+      "Avoid heavy physical activity until cleared by doctor.",
+      "Take prescribed medications regularly.",
+      "Seek emergency care if chest pain occurs."
+    ]
+  },
+  "default": {
+    "title": "General Health Advice",
+    "summary": "Maintain a healthy lifestyle and consult a doctor if needed.",
+    "suggestions": [
+      "Exercise regularly.",
+      "Eat fiber-rich food.",
+      "Stay hydrated."
+    ]
+  }
+}
